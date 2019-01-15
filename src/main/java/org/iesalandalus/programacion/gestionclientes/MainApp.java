@@ -8,6 +8,7 @@ public class MainApp {
 		System.out.println("Programa para la gestión de clientes");
 		IUTextual vista = new IUTextual();
 		vista.comenzar();
+                
 	}
 
 }
